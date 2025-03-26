@@ -15,7 +15,7 @@ public static class FileManager
         }
 
         string[] sorok = File.ReadAllLines(fajlnev);
-        for (int i = 1; i < sorok.Length; i++)  // Fejléc kihagyása
+        for (int i = 1; i < sorok.Length; i++) 
         {
             string[] adatok = sorok[i].Split(';');
             if (adatok.Length == 4)
