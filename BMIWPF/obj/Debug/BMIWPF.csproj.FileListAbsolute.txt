@@ -1,0 +1,16 @@
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\bin\Debug\bmi.txt
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\bin\Debug\BMIWPF.exe.config
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\bin\Debug\BMIWPF.exe
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\bin\Debug\BMIWPF.pdb
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF.csproj.AssemblyReference.cache
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\MainWindow.baml
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\MainWindow.g.cs
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\App.g.cs
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF_Content.g.cs
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF_MarkupCompile.cache
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF.g.resources
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF.Properties.Resources.resources
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF.csproj.GenerateResource.cache
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF.csproj.CoreCompileInputs.cache
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF.exe
+C:\Users\lengy\Desktop\Suli\Asztali alkalmazások 2\BMIWPF\obj\Debug\BMIWPF.pdb

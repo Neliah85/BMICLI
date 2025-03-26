@@ -1,0 +1,9 @@
+Név;Életkor;Magasság;Testsúly
+Kiss Péter;16;175;68
+Nagy Anna;17;160;55
+Szabó Tamás;16;180;90
+Tóth Éva;18;165;72
+Varga Bence;17;170;65
+Horváth Zsolt;16;185;80
+Molnár Réka;18;158;50
+Lakatos Dániel;17;172;77
